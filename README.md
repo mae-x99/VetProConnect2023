@@ -30,10 +30,6 @@ Welcome to the Veterinary Clinic Management System repository! This project repr
 
 This repository demonstrates the dedication and technical skills that led to an 'A' grade in the Final Year Project. The Veterinary Clinic Management System showcases modern web development technologies addressing real-world challenges in veterinary healthcare.
 
-## Usage 📖
-
-Feel free to explore the codebase and documentation provided in this repository. It serves as both a portfolio piece and a functional resource for veterinary clinics aiming to enhance operational efficiency and patient care.
-
 ---
 
 Crafted with :heart: by Farhana 🌟
