@@ -1,6 +1,6 @@
 # Veterinary Clinic Management System 🐾
 
-Welcome to the Veterinary Clinic Management System repository! This project represents the culmination of a successful Final Year Project, achieving an 'A' grade. The system is designed to provide a comprehensive solution for managing veterinary clinics, utilizing the CodeIgniter framework for robust development.
+Welcome to the Veterinary Clinic Management System repository! Alhamdulillah, this project represents the culmination of a successful Final Year Project, resulting an 'A' grade. The system is designed to provide a comprehensive solution for managing veterinary clinics, utilizing the CodeIgniter framework for robust development.
 
 You can visit the website at [vetproconnect.000webhostapp.com](http://vetproconnect.000webhostapp.com/).
 
