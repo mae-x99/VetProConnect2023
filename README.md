@@ -8,15 +8,15 @@ Link : vetproconnect.000webhostapp.com/
 
 ## Account Details
 
-**Admin**
+- **Admin**
 Email: vetclinicsystem99@gmail.com
 Password: VetAdmin99
 
-**Doctor**
+- **Doctor**
 Email: vetdoctorclinicsystem99@gmail.com
 Password: VetDoctor99
 
-**Patient**
+- **Patient**
 Email: vetpatientclinicsystem99@gmail.com
 Password: VetPatient99
 
