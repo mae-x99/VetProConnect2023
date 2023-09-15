@@ -2,6 +2,26 @@
 
 Welcome to the Veterinary Clinic Management System repository! This project represents the culmination of a successful Final Year Project, achieving an 'A' grade. The system is designed to provide a comprehensive solution for managing veterinary clinics, utilizing the CodeIgniter framework for robust development.
 
+Link : vetproconnect.000webhostapp.com/
+
+---
+
+## Account Details
+
+**Admin**
+Email: vetclinicsystem99@gmail.com
+Password: VetAdmin99
+
+**Doctor**
+Email: vetdoctorclinicsystem99@gmail.com
+Password: VetDoctor99
+
+**Patient**
+Email: vetpatientclinicsystem99@gmail.com
+Password: VetPatient99
+
+---
+
 ## Key Features 🚀
 
 - **Comprehensive Patient Management:** Maintain detailed patient profiles, medical histories, vaccination schedules, and treatment plans.
